@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="pc &lt;pc@DESKTOP-NAEU9BQ&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="pc &lt;pc@DESKTOP-NAEU9BQ&gt;"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/amal-jallouli/TP1-DAR-LSI3.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="E:\Amal_LSI3_DepAppReparties_TP1\Amal_Jalllouli_TP1\.git">
+			<item value="false"/>
+			<item value="pc &lt;pc@DESKTOP-NAEU9BQ&gt;"/>
+			<item value="initial commit"/>
+			<item value="pc &lt;pc@DESKTOP-NAEU9BQ&gt;"/>
+			<item value="6e11bfc04ac45a7ce837f9566020bc02f66522f6"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
